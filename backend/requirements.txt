@@ -1,0 +1,21 @@
+Django 
+djangorestframework # to make api request.
+django-cors-headers # allowing you to make api request from other origins(servers).
+djangorestframework-simplejwt # framework to make jsonwebtokens securely.
+python-dotenv # to read variables from a .env file.
+google-api-python-client # to connect google and your django.
+google-auth # its a secure google authentication.
+google-auth-oauthlib # its a secure google authentication different protocol.
+python-dateutil # formats dates
+regex # ...
+psycopg2-binary # connect to the database.
+django-celery-beat # ...
+redis # ...
+pandas # for data analysis.
+drf-spectacular 
+drf-spectacular-sidecar
+django-cors-headers
+google-api-python-client 
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2

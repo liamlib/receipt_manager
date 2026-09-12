@@ -1,0 +1,12 @@
+backend/.env
+backend/db.sqlite3
+backend/__pycache__/
+backend/*/__pycache__/
+frontend/build/
+venv/
+
+# OS files
+.DS_Store
+
+# Large local SDK download (2GB, exceeds GitHub file limits)
+backend/flutter_macos_*.zip
